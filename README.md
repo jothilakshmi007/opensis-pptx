@@ -1,1 +1,1 @@
-# IBM License
+# IBM public License
