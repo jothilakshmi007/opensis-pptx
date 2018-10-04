@@ -1,1 +1,2 @@
 # opensis-pptx
+# IBM license
